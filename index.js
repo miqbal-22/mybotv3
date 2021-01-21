@@ -52,7 +52,7 @@ const _level = JSON.parse(fs.readFileSync('./database/json/level.json'))
 /******END OF JSON INPUT******/
 
 /******BEGIN OF MENU INPUT******/
-const { help } = require('./src/help')
+const { help } = require('./database/menu/help')
 const { logomaker } = require('./database/menu/logomaker')
 /*const { mediamenu } = require('./database/menu/mediamenu')
 const { educationmenu } = require('./database/menu/educationmenu')
