@@ -43,11 +43,11 @@ Follow The Steps Below!
 (after that tap on permission)
 > pkg update
 > pkg upgrade
-> pkg install git
+
 > pkg install wget
 > pkg install ffmpeg
 > pkg install nodejs
-> pkg install npm
+
 > pkg install tesseract
 > pkg install git -y
 > git clone https://github.com/miqbal-22/mybotv3
