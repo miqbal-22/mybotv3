@@ -264,7 +264,7 @@ async function starts() {
 			}
     			const apakah = ['Iya','Tidak','Mungkin','Mungkin iya','Mungkin tidak','Coba tanyakan lagi','Tidak mungkin','Coba tanyakan lagi']
         		const bolehkah = ['Boleh','Tidak boleh','Iya','Sangat di anjurkan','Tidak','Mingkin','Mungkin tidak','Jangan','Tentu saja','Coba tanyakan lagi']
-		        const kapankah = ['Menit lagi','Jam Lagi','Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi''Windu Lagi','Dekade Lagi','Abad Lagi',']
+		        const kapankah = ['Menit lagi','Jam Lagi','Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi''Windu Lagi','Dekade Lagi','Abad Lagi']
 			const botNumber = client.user.jid
 			const ownerNumber = ["6285745376798@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
