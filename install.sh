@@ -12,6 +12,7 @@ npm audit fix
 npm i imgbb-uploader
 npm cache clean -f
 npm install --dev
+npm install
 npm i got
 
 echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
