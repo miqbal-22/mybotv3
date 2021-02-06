@@ -2364,7 +2364,7 @@ async function starts() {
                 const jumblah = q.substring(q.lastIndexOf('|') + 1)
                 if (checkATMuser(sender) < jumblah) return reply(`uang lu gk cukup buat transfer`)
                 const tujuantf = `${tujuan.replace("@", '')}@s.whatsapp.net`
-                fee = 500 *  jumblah
+                fee = 0.005 *  jumblah
                 hasiltf = jumblah - fee
                 addKoinUser(tujuantf, hasiltf)
                 confirmATM(sender, jumblah)
