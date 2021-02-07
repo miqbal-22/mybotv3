@@ -259,6 +259,7 @@ Follow The Steps Below!
 * [Paritsod](https://github.com/Paritsod)
 * [mrfzvx12](https://github.com/mrfzvx12)
 * [Mr-hadi](https://github.com/Mr-hadi)
+* [NazwaS](https://guthub.com/NazwaS)
 * [Fdciabdul](https://github.com/fdciabdul)
 * [ArugaZ](https://github.com/ArugaZ)
 * [Mhankbarbar](https://github.com/MhankBarBar)
