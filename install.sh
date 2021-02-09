@@ -10,6 +10,7 @@ apt-get install tesseract
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm audit fix
 npm i imgbb-uploader
+npm audit fix --force
 npm cache clean -f
 npm install --dev
 npm install
