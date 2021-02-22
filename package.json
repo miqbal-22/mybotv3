@@ -33,7 +33,7 @@
     "image-to-base64": "^2.1.1",
     "imgbb-uploader": "file:imgbb-uploader",
     "lolis.life": "^4.0.0",
-    "mathjs": "^8.1.1",
+    "mathjs": "^9.2.0",
     "moment-timezone": "^0.5.32",
     "multistream": "^4.0.1",
     "node-fetch": "^2.6.1",
