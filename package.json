@@ -24,7 +24,7 @@
     "@kagchi/kag-api": "^1.5.5",
     "async": "^3.2.0",
     "axios": "^0.21.1",
-    "cfonts": "^2.9.0",
+    "cfonts": "^3.1.0",
     "escape-string-regexp": "^4.0.0",
     "fake-useragent": "^1.0.1",
     "fluent-ffmpeg": "^2.1.2",
