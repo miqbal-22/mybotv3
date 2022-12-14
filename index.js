@@ -1,4 +1,3 @@
-const lolcatjs = require('lolcatjs')
 const figlet = require('figlet')
 
 lolcatjs.options.seed = Math.round(Math.random() * 1000);
